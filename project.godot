@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Nes Gamejam 2024"
+config/name="It's Growing [TempName]"
 config/features=PackedStringArray("4.2", "GL Compatibility")
 config/icon="res://icon.svg"
 
